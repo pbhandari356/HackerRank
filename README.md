@@ -1,2 +1,2 @@
 # HackerRank
-Solcing Coding Challenges
+Solving Coding Challenges from hackerrank.com
